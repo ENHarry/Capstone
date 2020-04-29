@@ -7,4 +7,4 @@ As such, we were given free rein on the direction we wanted to take, and I decid
 the general data cleaning process, and how well one can work with such data.
 
 
-[click here to read more](https://enharry.github.io/UdacityCap/)
+[click here to read more]( https://enharry.github.io/Capstone/)
